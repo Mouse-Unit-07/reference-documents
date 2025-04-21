@@ -1,0 +1,300 @@
+Category,Vendor,Item Number,Item Description,Quantity Per Package,Cost Per Package,Number of Packages,Item Total Cost,Part Link,"Symbol, Layout, & 3D Model Link",Comments,Designation on Mouse 7.0 Test,Designation on Mouse 7.0 PCB
+Power,Amazon,B096G4D6ZX,"URGENEX 7.4V Lipo Battery 2S 30C 900mAh Rechargeable Lipo Battery with PH2.0 Plug Compatible with Most 1/10, 1/16, 1/18, 1/24 Scale RC Cars Trucks",2,$19.99,1,$19.99,https://www.amazon.com/URGENEX-Battery-900mAh-Rechargeable-Campatibal/dp/B096G4D6ZX/ref=sr_1_64?crid=2E32IJR9C2HZN&keywords=2s+lipo+battery&qid=1699203757&sprefix=2s+lipo+battery%2Caps%2C80&sr=8-64,,"- 7.4V LiPo battery, 900mAh, 46g, 30C
+- JST PH 2.0 pitch 2 position for power, 3 position for charging
+- 53mm x 16mm x 29mm (l x h x w)",,
+,Amazon,B09DP9FZTX,"CQRobot 50 Sets/200 Pieces 2.0 mm Pitch JST PH 2-Pin IC Sockets & Plugs Adapter Connector Male and Female Terminal, Crimp DIP Kit. for Industrial Integrated Circuit JST Connector Cable.",50,$7.99,1,$7.99,https://www.amazon.com/CQRobot-Connector-Terminal-Industrial-Integrated/dp/B09DP9FZTX/ref=sr_1_4?crid=2C48JYA7JGQ5Q&keywords=micro%2Bjst%2Bconnector%2Bkit&qid=1698190590&sprefix=micro%2Bjst%2Bconnector%2Bkit%2Caps%2C100&sr=8-4&th=1,,"- JST PH 2.0 pitch 2 position pack both male and female TH
+- 50 male, 50 female",,
+,,,,,,,,,,,,
+,Digikey,CMS04(TE12LQM)CT-ND,DIODE SCHOTTKY 30V 5A M-FLAT,1,$0.76,4,$3.04,https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/CMS04-TE12L-Q-M/871534,https://app.ultralibrarian.com/details/873d4c59-1bbb-11ea-a124-0ad2c9526b44/Toshiba-Electronic-Devices-Storage-Corp-/CMS04-TE12L-Q-M-?uid=76687012,"- schottky diode for everything except vacuum that needs 5A
+- prevents up to 30V and allows 5A to pass
+- for 3.3V, 5V, 12V, and 3.2V regulators
+- small 370mV forward drop",,
+,,,,,,,,,,,,
+,Digikey,296-53563-1-ND,DC DC CONVERTER 1.2-6V,1,$3.48,1,$3.48,https://www.digikey.com/en/products/detail/texas-instruments/TPSM84209RKHR/10273205?s=N4IgTCBcDaICoAUDKBZAHAFjABgJwCUBpACXxAF0BfIA,https://app.ultralibrarian.com/details/72767a0a-9a13-11e9-ab3a-0a3560a4cccc/Texas-Instruments/TPSM84209RKHR?uid=100797579,"- 3.7V 2A regulator for vacuum motor
+- schematic generated w/ TI tool: HERE HERE",,
+,Digikey,445-7665-1-ND,CAP CER 22UF 10V X5R 0805,1,$0.39,2,$0.78,https://www.digikey.com/en/products/detail/tdk-corporation/C2012X5R1A226M125AB/2733100,n/a,"- Cin for vacuum fan regulator circuit
+- 0805 package
+- 22uF",,
+,Digikey,445-8239-1-ND,CAP CER 47UF 10V X5R 0805,1,$0.79,3,$2.37,https://www.digikey.com/en/products/detail/tdk-corporation/C2012X5R1A476M125AC/2812455?s=N4IgTCBcDaIMJgAwEYwA0CsAlZBBALAOwBsAsqhrnCALoC%2BQA,n/a,"- Cout for vacuum fan regulator circuit
+- 0805 package
+- 47uF",,
+,Digikey,399-C0402C331J5JAC7867CT-ND,CAP CER 330PF 50V U2J 0402,1,$0.24,1,$0.24,https://www.digikey.com/en/products/detail/kemet/C0402C331J5JAC7867/6176500,n/a,"- Cff for vacuum fan regulator circuit
+- 0402 package
+- 330pF",,
+,Digikey,541-10.0KLCT-ND,RES SMD 10K OHM 1% 1/16W 0402,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/vishay-dale/CRCW040210K0FKED/1178121,n/a,"- Rfbt for vacuum fan regulator circuit
+- 0402 package
+- 10k Ohm resistor",,
+,Digikey,541-1.91KLCT-ND,RES SMD 1.91K OHM 1% 1/16W 0402,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/vishay-dale/CRCW04021K91FKED/1178037,n/a,"- Rfbb for vacuum fan regulator circuit
+- 0402 package
+- 1.91k Ohm resistor",,
+,,,,,,,,,,,,
+,Digikey,296-TPS61288RQQRCT-ND,IC REG BOOST ADJ 15A 11VQFN,1,$5.89,1,$5.89,https://www.digikey.com/en/products/detail/texas-instruments/TPS61288RQQR/13627146?s=N4IgTCBcDaICoAUDKA2AjGAHJgSgRTxxAF0BfIA,https://app.ultralibrarian.com/details/b8fe61ee-f9ad-11ea-b55a-0a34d6323d74/Texas-Instruments/TPS61288RQQR?uid=112294338,"- 12V 3A regulator for wheel motor driver
+- schematic generated w/ TI tool: https://webench.ti.com/appinfo/webench/scripts/SDP.cgi?ID=AA12043C39DD7B4B",,
+,Digikey,445-4042-1-ND,CAP CER 10UF 16V X7R 1206,1,$0.30,1,$0.30,https://www.digikey.com/en/products/detail/tdk-corporation/C3216X7R1C106K160AC/1965630,n/a,"- Cin for wheel motor regulator circuit
+- 1206 package
+- 10uF",,
+,Digikey,445-1314-1-ND,CAP CER 0.1UF 50V X7R 0603,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/tdk-corporation/C1608X7R1H104K080AA/513811,n/a,"- Cinx for wheel motor regulator circuit
+- 0603 package
+- 0.1uF",,
+,Coilcraft,XAL7070-332,XAL7070-332MEC,1,$3.25,1,$3.25,https://www.coilcraft.com/en-us/products/power/shielded-inductors/molded-inductor/xal/xal7070/xal7070-332/,https://app.ultralibrarian.com/details/c70f84e9-0c17-11ee-9288-0ae0a3b49db5/Coilcraft/XAL7070-332MEC?uid=21053447,- L1 for wheel motor regulator circuit,,
+,Digikey,445-4952-1-ND,CAP CER 0.1UF 16V X7R 0402,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/tdk-corporation/C1005X7R1C104K050BC/2093220,n/a,"- Cbst for wheel motor regulator circuit
+- 0402 package
+- 0.1uF",,
+,Digikey,445-9097-1-ND,CAP CER 2.2UF 10V X7S 0402,1,$0.29,1,$0.29,https://www.digikey.com/en/products/detail/tdk-corporation/C1005X7S1A225K050BC/3661557?s=N4IgTCBcDaIMIEYAMSCsANA7AZQQQTDFQGk0kAhOEAXQF8g,n/a,"- Cvcc for wheel motor regulator circuit
+- 0402 package
+- 2.2uF",,
+,Digikey,541-34.0KLCT-ND,RES SMD 34K OHM 1% 1/16W 0402,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/vishay-dale/CRCW040234K0FKED/1178180,n/a,"- Rcomp for wheel motor regulator circuit
+- 0402 package
+- 34k Ohms",,
+,Digikey,490-16432-1-ND,CAP CER 0.039UF 16V X7R 0402,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/murata-electronics/GCM155R71C393KA37D/7363176,n/a,"- Ccomp for wheel motor regulator circuit
+- 0402 package
+- 39nF",,
+,Digikey,399-11256-1-ND,CAP CER 82PF 25V C0G/NP0 0402,1,$0.49,1,$0.49,https://www.digikey.com/en/products/detail/kemet/CBR04C820F3GAC/4377017,n/a,"- Ccomp2 for wheel motor regulator circuit
+- 0402 package
+- 82pF",,
+,Digikey,541-931KLCT-ND,RES SMD 931K OHM 1% 1/16W 0402,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/vishay-dale/CRCW0402931KFKED/1178346,n/a,"- Rfbt for wheel motor regulator circuit
+- 0402 package
+- 931k Ohms",,
+,Digikey,541-48.7KLCT-ND,RES SMD 48.7K OHM 1% 1/16W 0402,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/vishay-dale/CRCW040248K7FKED/1178199,n/a,"- Rfbb for wheel motor regulator circuit
+- 0402 package
+- 48.7k Ohms",,
+,Digikey,490-16309-1-ND,CAP CER 47UF 16V X6S 1210,1,$0.52,3,$1.56,https://www.digikey.com/en/products/detail/murata-electronics/GRM32EC81C476KE15K/7363053,n/a,"- Cout for wheel motor regulator circuit
+- 1210 package
+- 47uF",,
+,,,,,,,,,,,,
+,Digikey,EG5554-ND,SWITCH ROCKER SPST 15A 125V,1,$1.64,1,$1.64,https://www.digikey.com/en/products/detail/e-switch/R1966ABLKBLKEP/1805067,- https://www.mouser.com/ProductDetail/E-Switch/R1966ABLKBLKEP?qs=fwxlpxwtDRcZsx8M4AZ8tA%3D%3D,"- switch for on/off of entire mouse
+- rated for 15A (AC), can hopefully handle 9A DC",,
+,Digikey,283-5179-1-ND,FUSE BRD MNT 10A 125VAC/VDC 2SMD,1,$0.91,1,$0.91,https://www.digikey.com/en/products/detail/eaton-electronics-division/CB61F10A-TR2/3526138,https://www.mouser.com/ProductDetail/Bussmann-Eaton/CB61F10A-TR2?qs=3W28jC%252BmlM2sYw8RFxQ%2Faw%3D%3D,"- 10A fuse for entire mouse
+- 3A for wheels + 2A for vacuum + 1A for 3.3V + 1A for 5V = 7A ",,Extra new
+,Digikey,P122314CT-ND,CAP ALUM 1200UF 20% 16V RADIAL,1,$0.49,1,$0.49,https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEU-FS1C122LB/7381180,https://www.mouser.com/ProductDetail/Panasonic/EEU-FS1C122LB?qs=gt1LBUVyoHmQ1%252BC95E8BAw%3D%3D,- 1.2mF 16V bulk cap for entire mouse,,Extra new
+,,,,,,,,,,,,
+,Digikey,296-39450-1-ND,IC REG BUCK 5V 500MA 8WSON,1,$1.36,1,$1.36,https://www.digikey.com/en/products/detail/texas-instruments/TPS62173DSGR/2833458,https://app.ultralibrarian.com/details/16ac426d-103f-11e9-ab3a-0a3560a4cccc/Texas-Instruments/TPS62173DSGR?uid=21221933,"- 5V, 500mA switching regulator
+- used to power Sharp sensors",,
+,Digikey,296-39449-1-ND,IC REG BUCK 3.3V 500MA 8WSON,1,$1.36,1,$1.36,https://www.digikey.com/en/products/detail/texas-instruments/TPS62172DSGR/2833456,https://app.ultralibrarian.com/details/16ac3ea9-103f-11e9-ab3a-0a3560a4cccc/Texas-Instruments/TPS62172DSGR?uid=21221932,"- 3.3V, 500mA switching regulator
+- used to power MCU",,
+,Digikey,445-6857-1-ND,CAP CER 10UF 10V X7R 0805,1,$0.31,2,$0.62,https://www.digikey.com/en/products/detail/tdk-corporation/C2012X7R1A106K125AC/2619198,n/a,"- 10uF ceramic cap needed for 5V and 3.3V switching regulator
+- between VIN and PGND (pg 21 pdf of datasheet)
+- 0805 package",,
+,Digikey,445-7665-1-ND,CAP CER 22UF 10V X5R 0805,1,$0.39,2,$0.78,https://www.digikey.com/en/products/detail/tdk-corporation/C2012X5R1A226M125AB/2733100,n/a,"- 22uF ceramic cap needed for 5V and 3.3V switching regulator
+- between SW and FB (pg 21 pdf of datasheet)",,
+,Digikey,541-100KHCT-ND,RES SMD 100K OHM 1% 1/10W 0603,1,$0.10,2,$0.20,https://www.digikey.com/en/products/detail/vishay-dale/CRCW0603100KFKEA/1174896,n/a,"- 100k Ohm resistor needed for 5V and 3.3V switching regulator
+- between SW/VOS and PG (pg 21 pdf of datasheet)
+- smaller 0603 package",,
+,Digikey,732-2613-1-ND,FIXED IND 2.2UH 1.8A 66 MOHM SMD,1,$1.64,2,$3.28,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/744025002/2445620,https://www.mouser.com/ProductDetail/Wurth-Elektronik/744025002?qs=rS3zZhy2AQOJdJOD4WhGug%3D%3D,"- 2.2uH inductor needed for 5V and 3.3V switching regulator
+- between SW and 100k Ohm resistor (pg 21 pdf of datasheet)","(NEW, old dupe)",
+,,,,,,,,,,,,
+,Digikey,296-TLV9301IDBVRCT-ND,IC OPAMP GP 1 CIRCUIT SOT23-5,1,$0.58,1,$0.58,https://www.digikey.com/en/products/detail/texas-instruments/TLV9301IDBVR/12165123,https://app.ultralibrarian.com/details/268976cb-c80b-11e9-ab3a-0a3560a4cccc/Texas-Instruments/TLV9301IDBVR?uid=103419294,"- low battery voltage indicator op amp 
+- to be used as comparator to turn on/off regulators",,
+,Digikey,P118KLCT-ND,RES SMD 118K OHM 1% 1/10W 0402,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF1183X/192103,n/a,"- R2 for low battery voltage comparator circuit
+- 0402 package
+- 118k Ohms",,
+,Digikey,541-100KLCT-ND,RES SMD 100K OHM 1% 1/16W 0402,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/vishay-dale/CRCW0402100KFKED/1178235,n/a,"- R1 for low battery voltage comparator circuit
+- 0402 package
+- 100k Ohms",,
+,Digikey,541-10.0KLCT-ND,RES SMD 10K OHM 1% 1/16W 0402,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/vishay-dale/CRCW040210K0FKED/1178121,n/a,"- R1 for comparator output divider
+- 0402 package
+- 10k ohms","(NEW, dupe)",
+,Digikey,P3.74KLCT-ND,RES SMD 3.74K OHM 1% 1/10W 0402,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-2RKF3741X/192286,n/a,"- R2 for comparator output divider
+- 0402 package
+- 3.74k ohms",NEW,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Wheel Motor Related,Digikey,TB6561FG8ELCT-ND,IC MOTOR DRIVER 10V-36V 30SSOP,1,$3.51,1,$3.51,https://www.digikey.com/en/products/detail/toshiba-semiconductor-and-storage/TB6561FG-8-EL/1730056,https://app.ultralibrarian.com/details/84a3ee1c-5a2c-11eb-9033-0a34d6323d74/Toshiba-Electronic-Devices-Storage-Corp-/TB6561FG-8-EL?uid=50464463,"- H bridge PWM interface brushed motor driver
+- 10-36V supply, 3A output max, 30-BSOP",,
+,Digikey,445-7456-1-ND,CAP CER 0.1UF 50V X5R 0603,1,$0.11,1,$0.11,https://www.digikey.com/en/products/detail/tdk-corporation/C1608X5R1H104K080AA/2732891,n/a,"- C2 0.1uF cap for 5V output from motor driver
+- datasheet pg 8: HERE
+- 0603 package",,
+,Digikey,P121394CT-ND,CAP ALUM HYB 47UF 20% 25V SMD,1,$1.45,1,$1.45,https://www.digikey.com/en/products/detail/panasonic-electronic-components/EEH-ZK1E470R/6564642?s=N4IgTCBcDaIKJwBIFoBaBpAjHALAdgAYAlEAXQF8g,https://www.mouser.com/ProductDetail/Panasonic/EEH-ZK1E470R?qs=FNcb6ahWXRxnLCe3Ulph5A%3D%3D,"- C1 47uF polymer cap for motor driver supply
+- datasheet pg 8",,
+,Servocity,638103,Gear Motor with Encoder ,1,$19.99,2,$39.98,https://www.servocity.com/4900-rpm-micro-gear-motor-w-encoder/,,"- Gear motors, 4900rpm w/ encoders
+- 6 position 1.5 pitch ZH JST",,
+,Pololu,1087,Black plastic wheels with silicone tires,2,$4.95,1,$4.95,https://www.pololu.com/product/1087,,"- Wheels, 32mm diameter, 3mm D output shaft
+- we'll use just the rubber tire and make a custom wheel",,
+,Amazon,B09NCCXPGM,"CQRobot 100 Sets/800 Pieces 1.5 mm Pitch JST ZH 6-Pin IC Sockets & Plugs Adapter Connector Male and Female Terminal, Crimp DIP Kit. for Industrial Integrated Circuit JST Connector Cable.",100,$9.58,1,$9.58,https://www.amazon.com/CQRobot-Connector-Terminal-Industrial-Integrated/dp/B09NCCXPGM/ref=sr_1_4?crid=2C48JYA7JGQ5Q&keywords=micro%2Bjst%2Bconnector%2Bkit&qid=1698190590&sprefix=micro%2Bjst%2Bconnector%2Bkit%2Caps%2C100&sr=8-4&th=1,"https://www.jst-mfg.com/product/index.php?series=290
+https://app.ultralibrarian.com/details/6e868fff-65ca-11eb-9033-0a34d6323d74/JST/B6B-ZR-LF-SN-?uid=248825",- JST ZH 6 position male (receptacle) TH connector,,
+,Amazon,B07FW18RQY,"uxcell 683ZZ Ball Bearing 3mm x 7mm x 3mm Double Shielded Deep Groove Bearings, Carbon Steel 20pcs",20,$7.99,1,$7.99,https://www.amazon.com/uxcell-Bearing-Double-Shielded-Bearings/dp/B07FW18RQY/ref=sr_1_7?crid=3G5J7PPIQSWWF&keywords=small+ball+bearings&qid=1699846362&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=tiny+ball+bearings%2Caps%2C76&sr=8-7#customerReviews,,- 3mm ball bearings to be embedde into custom wheels,,
+,Servocity,1500-0010-0003,"1500 Series Plastic Spacer (3mm ID x 5mm OD, 1mm Thickness) - 12 Pack",12,$1.87,1,$1.87,https://www.servocity.com/1500-series-plastic-spacer-3mm-id-x-5mm-od-1mm-thickness-12-pack/,,- 3mm plastic spacers to put between wheel and mount,,
+,Amazon,B0BKRQSMFL,"FOLIV 700PCS M3 x 5/6/8/10/12/14/16/18/20/25/30mm Button Hex Head Cap Screws M3 Metric Machine Screws Bolts Nuts Washer Assortment Kit, 10.9 Grade Alloy Steel",10-50,$15.29,1,$15.29,https://www.amazon.com/gp/product/B0BKRQSMFL/ref=ox_sc_act_title_1?smid=A3ILXS83DKRO8O&th=1,,- M3 button head screws to serve as wheel axels,,
+,Digikey,1727-7806-1-ND,DIODE SCHOTTKY 60V 3A SOD123W,1,$0.39,8,$3.12,https://www.digikey.com/en/products/detail/nexperia-usa-inc/PMEG60T30ELRX/9086223,https://app.ultralibrarian.com/details/785255d6-6dbf-11ee-9288-0ae0a3b49db5/Nexperia/PMEG60T30ELRX?uid=89940784&exports=ThreeDModel&exports=Eagle&open=exports,- Flyback diodes for EMF protection,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Vacuum Fan Related,Amazon,B08RMQP6YP,1.25mm Male and Female Connectors Socket and Plug with Pre-Crimped Cables Compatible with JST Molex PicoBlade 1.25 for Pixhawk Silicone 13cm Wire (Male and Female),20,$18.99,1,$18.99,https://www.amazon.com/Connectors-Pre-Crimped-Compatible-PicoBlade-Silicone/dp/B08RMQP6YP/ref=sr_1_3?crid=LQGXRD6UTC96&keywords=molex%2Bpicoblade%2Bconnector%2Bmale%2Bfemale&qid=1704663830&sprefix=molex%2Bpicoblade%2Bconnector%2Bmale%2Bfemale%2Caps%2C185&sr=8-3&th=1,n/a,"- Molex picoblade connector various positions, 
+- includes 3 position 1.25mm pitch male and female connector, 20 of each
+- includes 10cm precrimped wire
+- to be used to extend HGLRC wire",,
+,,,,,,,,,,,,
+,Digikey,DMN3200U-7DICT-ND,MOSFET N-CH 30V 2.2A SOT23-3,1,$0.45,1,$0.45,https://www.digikey.com/en/products/detail/diodes-incorporated/DMN3200U-7/1778821,https://www.mouser.com/ProductDetail/Diodes-Incorporated/DMN3200U-7?qs=oDfC%252BbpzniwrIf3%2FMV01IQ%3D%3D,- 2.2A 30V MOSFET to switch on/off regulator power to vacuum fan,NEW,
+,Digikey,P17216CT-ND,RES 47 OHM 1% 1/4W 0402,1,$0.23,1,$0.23,https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-PA2F47R0X/5402642,n/a,- 47 Ohm gate resistor for MOSFET to limit surge curernt,NEW,
+,Digikey,541-10.0KLCT-ND,RES SMD 10K OHM 1% 1/16W 0402,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/vishay-dale/CRCW040210K0FKED/1178121,n/a,"- 10k Ohm resistor for pulling down input to MOSFET to ensure low 
+- 0402 package","(NEW, dupe)",
+,Digikey,493-3813-1-ND,RNE1C101MDS1PX,1,$0.76,1,$0.76,https://www.digikey.com/en/products/detail/nichicon/RNE1C101MDS1PX/2239221,https://app.ultralibrarian.com/details/8611d1e7-1076-11e9-ab3a-0a3560a4cccc/Nichicon/RNE1C101MDS1PX?uid=19038720,100uF capacitor for vacuum fan driver,,
+,Digikey,4988-NMC0805X7R104K50TRPFCT-ND,CAP SMT08050.1F50VDC,1,$0.24,1,$0.24,https://www.digikey.com/en/products/detail/nic-components-corp/NMC0805X7R104K50TRPF/18895932,n/a,"- 0.1uF cap for brushless motor driver
+- 0805 package",,
+,,,,,,,,,,,,
+,Amazon,B07CFQMF1M,8pcs 8520 Motor 8.5x20mm 15000KV Brushed Motors 4CW 4CCW Coreless Motor with JST-1.25 Connector for D JI Ryze Tello 720P Camera WiFi FPV RC Quadcopter M80S E013 Plus Tiny 8X Frame Kit etc,8,$18.99,1,$18.99,https://www.amazon.com/8-5x20mm-15000KV-Coreless-JST-1-25-Connector/dp/B07CFQMF1M/ref=sr_1_1?crid=27CDZH1SJGTR0&keywords=brushed+quadcopter+motor&qid=1707103389&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=brushed+quadcopter+motor%2Caps%2C107&sr=8-1,n/a,"- 15000KV brushed DC motor for vacuum fan
+- 2p 1.25mm pitch picoblade connector",,
+,Digikey,WM1731-ND,CONN HEADER VERT 2POS 1.25MM,1,$0.23,1,$0.23,https://www.digikey.com/en/products/detail/molex/0530470210/242853?s=N4IgTCBcDaIKwGYAMAWA7EsBGJIC6AvkA,"- https://app.ultralibrarian.com/details/56453440-d29f-11ea-b5d0-0aebb021a1ea/Molex-Connector-Corporation/530470210?uid=276772
+- https://www.molex.com/en-us/products/part-detail/530470210","- motor to board connector for vacuum fan
+- 2p 1.25mm pitch picoblade connector",,
+,Digikey,1727-7806-1-ND,DIODE SCHOTTKY 60V 3A SOD123W,1,$0.39,2,$0.78,https://www.digikey.com/en/products/detail/nexperia-usa-inc/PMEG60T30ELRX/9086223,https://app.ultralibrarian.com/details/785255d6-6dbf-11ee-9288-0ae0a3b49db5/Nexperia/PMEG60T30ELRX?uid=89940784&exports=ThreeDModel&exports=Eagle&open=exports,- Flyback diodes for EMF protection,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+"Ball Caster, nuts, screws",Amazon,B0BTYDZVM8,"1 Oz (23 Grams) 3000-CPS Super Glue All Purpose with Anti Clog Cap. Ca Glue - Adhesive SuperGlue. Cyanoacrylate Glue for Hard Plastics, DIY Craft, Metal and Many More",1,$6.99,1,$6.99,https://www.amazon.com/gp/product/B0BTYDZVM8/ref=sw_img_1?smid=A3O523LQQ2NT7Z&th=1,,- superglue to attach 3D printed mounts to PCB,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+IR Sensing,Digikey,1855-1027-ND,SENSOR OPTICAL 2-15CM ANALOG,1,$8.45,4,$33.80,https://www.digikey.com/en/products/detail/sharp-socle-technology/GP2Y0A51SK0F/4103863?s=N4IgTCBcDaIOIAUwE0AMBBArARgMoGlUAxEAXQF8g,https://www.mouser.com/ProductDetail/Sharp-Microelectronics/GP2Y0A51SK0F?qs=Qrpqs4v%252BmsahSKJyPt06pw%3D%3D,"- Sharp IR distance sensor 2-15cm
+- shortest range sharp IR sensor available
+- connects w/ 3 position ZH JST connector
+- needs 10uF cap",,
+,Amazon,B09NC8Y2PK,"CQRobot 100 Sets/500 Pieces 1.5 mm Pitch JST ZH 3-Pin IC Sockets & Plugs Adapter Connector Male and Female Terminal, Crimp DIP Kit. for Industrial Integrated Circuit JST Connector Cable.",50,$11.99,1,$11.99,https://www.amazon.com/CQRobot-Connector-Terminal-Industrial-Integrated/dp/B09NC8Y2PK/ref=sr_1_4?crid=2C48JYA7JGQ5Q&keywords=micro%2Bjst%2Bconnector%2Bkit&qid=1698190590&sprefix=micro%2Bjst%2Bconnector%2Bkit%2Caps%2C100&sr=8-4&th=1,https://www.jst-mfg.com/product/index.php?series=290,"- JST ZH 1.5 pitch 3 position pack both male and female TH
+- 50 male, 50 female",,
+,Digikey,490-GRM155R61A106ME11DCT-ND,CAP CER 10UF 10V X5R 0402,1,$0.13,4,$0.52,https://www.digikey.com/en/products/detail/murata-electronics/GRM155R61A106ME11D/12091056,n/a,"- 10uF ceramic capacitor, SMD 0402
+- needed for Sharp IR sensors",NEW,
+,Digikey,CAY16-1001F4LFCT-ND,RES ARRAY 4 RES 1K OHM 1206,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/bourns-inc/CAY16-1001F4LF/2566504,https://app.ultralibrarian.com/details/ccdadb33-1071-11e9-ab3a-0a3560a4cccc/Bourns-Electronics/CAY16-1001F4LF?uid=1833049,"- R1 resistor array to drop 2.5V max from IR sensor output to 1.8V
+- 1k Ohm resistor array, 4 resistors",,
+,Digikey,CAY16-2201F4LFCT-ND,RES ARRAY 4 RES 2.2K OHM 1206,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/bourns-inc/CAY16-2201F4LF/2566534,https://app.ultralibrarian.com/details/1c159e3e-f9f4-11ed-b159-0a34d6323d74/Bourns-Electronics/CAY16-2201F4LF?uid=2077373,"- R2 resistor to drop 2.5V max from IR sensor output to 1.8V
+- 2.2k Ohms calculated w/ voltage divider equation
+- resistor array, 4 resistors",,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+MCU,Digikey,1175-1733-ND,CONN HEADER VERT 10POS 1.27MM,1,$0.68,1,$0.68,https://www.digikey.com/en/products/detail/cnc-tech/3221-10-0100-00/4878932,https://www.arrow.com/en/products/3221-10-0100-00/cnc-tech-llc,"- 2x5 TH JTAG programming header
+- small 1.27 pitch w/ key slot and shroud",,
+,Digikey,2151-RT3215-32.768-12.5-TR-10PPMCT-ND,CRYSTAL 32.7680KHZ 12.5PF SMD,1,$0.42,1,$0.42,https://www.digikey.com/en/products/detail/raltron-electronics/RT3215-32-768-12-5-TR-10PPM/13151073,https://app.ultralibrarian.com/details/ce5d9187-838b-11ec-9033-0a34d6323d74/Raltron/RT3215-32-768-12-5-TR?uid=57086955,- 32.768kHz external crystal,,
+,Digikey,490-GQM1555C2D220FB01DCT-ND,CAP CER 22PF 200V NP0 0402,1,$0.61,2,$1.22,https://www.digikey.com/en/products/detail/murata-electronics/GQM1555C2D220FB01D/5882005,https://app.ultralibrarian.com/details/d28e9410-f5b2-11eb-9033-0a34d6323d74/Murata/GQM1555C2D3R5CB01J?open=backlink,"- 22pF caps for external crystal
+- needed on each crystal terminal
+- 0402 package",NEW,
+,Amazon,B07BJJC3R6,NOYITO TTL to RS232 Module TTL RS232 Male Female Mutual Conversion Module Serial Level Conversion to SP232 TTL Serial Port Communicates with RS232 Level Device 15KV ESD Protect (Female),1,$7.99,1,$7.99,https://www.amazon.com/NOYITO-Module-Conversion-Arduino-communicates/dp/B07BJJC3R6/ref=sr_1_3?crid=CP3H5EDQPXSD&keywords=ttl%2Bto%2Brs232%2Bbox&qid=1697513365&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=ttl%2Bto%2Brs232%2Bbox%2Caps%2C110&sr=8-3&th=1,not needed,- TTL to DB-9 (DE-9) translator for serial out,,
+,Amazon,B0759HSLP1,"OIKWAN USB to RS232, USB Serial Adapter with FTDI Chipset,USB 2.0 to Male DB9 Serial Cable for Windows 11,10, 8, 7, Vista, XP, 2000, Linux and Mac OS(6ft)…",1,$11.99,1,$11.99,https://www.amazon.com/Adapter-Chipset%EF%BC%8CDB9-Serial-Converter-Windows/dp/B0759HSLP1/ref=sr_1_4?crid=3O9XHSS0ZPWSH&keywords=db9%2Bto%2Busb%2Badapter&qid=1697513066&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=db9%2Bto%2BUSB%2BA%2Caps%2C74&sr=8-4&th=1,not needed,- DB-9 (DE-9) to USB A for serial out,,
+,Digikey,AT32UC3L0256-AUT-ND,IC MCU 32BIT 256KB FLASH 48TQFP,1,$10.19,1,$10.19,https://www.digikey.com/en/products/detail/microchip-technology/AT32UC3L0256-AUT/3046397,https://app.ultralibrarian.com/details/89115949-109b-11e9-ab3a-0a3560a4cccc/Microchip/AT32UC3L0256-AUT?uid=77758500,"- AT32UC3L0256 AVR MCU to replace Arduino
+- 50MHz, faster than controller above, operates on 3.3V
+- 12b ADC, PWM, programmed via JTAG and aWire
+- schematic checklist: HERE",,
+,Digikey,490-GRM155R61A106ME11DCT-ND,CAP CER 10UF 10V X5R 0402,1,$0.13,1,$0.13,https://www.digikey.com/en/products/detail/murata-electronics/GRM155R61A106ME11D/12091056,n/a,"- 10uF capacitor for AT32UC3L0256 VDDin
+- page 4 of schematic checklist
+- small 0402 package",NEW,
+,Digikey,445-4952-1-ND,CAP CER 0.1UF 16V X7R 0402,1,$0.10,3,$0.30,https://www.digikey.com/en/products/detail/tdk-corporation/C1005X7R1C104K050BC/2093220,n/a,"- 0.1uf ceramic cap for AT32UC3L0256 VDDin, VDDio, and VDDcore
+- page 4 of schematic checklist
+- 0402 package","(NEW, dupe)",
+,Digikey,445-9097-1-ND,CAP CER 2.2UF 10V X7S 0402,1,$0.29,1,$0.29,https://www.digikey.com/en/products/detail/tdk-corporation/C1005X7S1A225K050BC/3661557?s=N4IgTCBcDaIMIEYAMSCsANA7AZQQQTDFQGk0kAhOEAXQF8g,n/a,"- 2.2uF ceramic cap for AT32UC3L0256 VDDio, and VDDcore
+- page 4 of schematic checklist
+- 0402 package","(NEW, dupe)",
+,Digikey,445-4952-1-ND,CAP CER 0.1UF 16V X7R 0402,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/tdk-corporation/C1005X7R1C104K050BC/2093220,n/a,"- 0.1uF ceramic cap for AT32UC3L0256 VDDana and ADVREF
+- page 5 of schematic checklist
+- 0402 package","(NEW, dupe)",
+,Digikey,732-74269241152CT-ND,WE-TMSB SMT EMI SUPPRESSION FERR,1,$0.13,1,$0.13,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/74269241152/17830009,https://app.ultralibrarian.com/details/ab67cd4b-c364-11ed-b159-0a34d6323d74/Wurth-Electronics/74269244182?open=backlink,"- ferrite bead for for AT32UC3L0256 VDDana and ADVREF
+- page 5 of schematic checklist, and page 15 on xplained dev board schematic: HERE
+- 0402 package",NEW,
+,Digikey,445-4952-1-ND,CAP CER 0.1UF 16V X7R 0402,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/tdk-corporation/C1005X7R1C104K050BC/2093220,n/a,"- 0.1uF ceramic cap for JTAG on AT32UC3L0256 
+- 0402 package","(NEW, dupe)",
+,Digikey,541-10.0KLCT-ND,RES SMD 10K OHM 1% 1/16W 0402,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/vishay-dale/CRCW040210K0FKED/1178121,n/a,"- 10k resistor for pulling down enable signal
+- 0402 package","(NEW, dupe)",
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Bluetooth,Digikey,1965-ESP32-PICO-MINI-02-N8R2CT-ND,RF TXRX MOD BT WIFI THCHAS MNT,1,$3.50,1,$3.50,https://www.digikey.com/en/products/detail/espressif-systems/ESP32-PICO-MINI-02-N8R2/14317715,"https://www.mouser.com/ProductDetail/Espressif-Systems/ESP32-PICO-MINI-02-N8R2?qs=DRkmTr78QAQ8om1dPNOcdA%3D%3D
+https://app.ultralibrarian.com/details/56d692a3-05b5-11ec-9033-0a34d6323d74/Espressif-Systems/ESP32-PICO-MINI-02-N8R2?uid=117367805","- ESP32 bluetooth module to serve as a serial bridge between mouse and laptop
+- perfect for our application- Sparkfun has a dev board doing exactly what we want",,Extra Extra new
+,Digikey,445-9077-1-ND,CAP CER 22UF 10V X5R 0603,1,$0.34,1,$0.34,https://www.digikey.com/en/products/detail/tdk-corporation/C1608X5R1A226M080AC/3661560,n/a,"- 22uF cap to decouple ESP32 module power
+- 0603 package",,Extra Extra new
+,Digikey,445-4952-1-ND,CAP CER 0.1UF 16V X7R 0402,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/tdk-corporation/C1005X7R1C104K050BC/2093220,n/a,"- 0.1uF cap to decouple ESP32 module power
+- 0402 package","(NEW, dupe)",
+,Digikey,541-10.0KLCT-ND,RES SMD 10K OHM 1% 1/16W 0402,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/vishay-dale/CRCW040210K0FKED/1178121,n/a,"- 10k resistor to slow down ESP32 module power up 
+- 0402 package","(NEW, dupe)",
+,Digikey,445-9086-1-ND,CAP CER 1UF 16V X6S 0402,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/tdk-corporation/C1005X6S1C105K050BC/3661565,n/a,"- 1uF cap to slow down ESP32 module power up
+- 0402 package",,Extra Extra new
+,Digikey,2449-CS1213AGF160CT-ND,SWITCH TACTILE SPST-NO 0.05A 50V,1,$0.40,1,$0.40,https://www.digikey.com/en/products/detail/cit-relay-and-switch/CS1213AGF160/16607723,https://app.ultralibrarian.com/details/600608b2-d687-11ed-b159-0a34d6323d74/CIT-Relay-Switch/CS1213AGF260?exports=ThreeDModel&exports=Eagle&open=exports,- pushbutton for ESP32 module boot option ,"(NEW, dupe)",
+,Digikey,PPPC041LGBN-RC,CONN HDR 4POS 0.1 GOLD PCB R/A,1,$0.68,1,$0.68,https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPPC041LGBN-RC/775937,https://octopart.com/pppc041lgbn-rc-sullins-270383,- female 2.54mm pitch connector to connect to mouse,,Extra Extra new
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Misc,Digikey,2449-CS1213AGF160CT-ND,SWITCH TACTILE SPST-NO 0.05A 50V,1,$0.40,1,$0.40,https://www.digikey.com/en/products/detail/cit-relay-and-switch/CS1213AGF160/16607723,https://app.ultralibrarian.com/details/600608b2-d687-11ed-b159-0a34d6323d74/CIT-Relay-Switch/CS1213AGF260?exports=ThreeDModel&exports=Eagle&open=exports,"- 3.9mm x 2.9mm smd pushbutton for config
+- 2mm high",NEW,Extra new
+,Digikey,754-1105-1-ND,LED YELLOW CLEAR CHIP SMD,1,$0.41,1,$0.41,https://www.digikey.com/en/products/detail/kingbright/APHHS1005SYCK/1747503,https://app.ultralibrarian.com/details/f21eebf1-5907-11ee-9288-0ae0a3b49db5/Kingbright/APHHS1005CGCK?open=backlink,- yellow SMD LED 0402 package for debug,NEW,
+,Digikey,754-2123-1-ND,LED RED CLEAR 2SMD,1,$0.52,1,$0.52,https://www.digikey.com/en/products/detail/kingbright/APHHS1005LSECK-J3-PF/7318976,https://app.ultralibrarian.com/details/f21eebf1-5907-11ee-9288-0ae0a3b49db5/Kingbright/APHHS1005CGCK?open=backlink,- red SMD LED 0402 package for error indication,NEW ,
+,Digikey,754-1503-1-ND,LED GREEN CLEAR CHIP SMD,1,$0.70,1,$0.70,https://www.digikey.com/en/products/detail/kingbright/APHHS1005ZGC/2263569,https://app.ultralibrarian.com/details/f21eebf1-5907-11ee-9288-0ae0a3b49db5/Kingbright/APHHS1005CGCK?open=backlink,- green SMD LED 0402 package for debug,NEW,
+,Digikey,754-1504-1-ND,LED BLUE CLEAR CHIP SMD,1,$0.51,1,$0.51,https://www.digikey.com/en/products/detail/kingbright/APHHS1005QBC-D/2263568,https://app.ultralibrarian.com/details/f21eebf1-5907-11ee-9288-0ae0a3b49db5/Kingbright/APHHS1005CGCK?open=backlink,- blue SMD LED 0402 package for debug,NEW,
+,Digikey,CAY16-1001F4LFCT-ND,RES ARRAY 4 RES 1K OHM 1206,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/bourns-inc/CAY16-1001F4LF/2566504,https://app.ultralibrarian.com/details/ccdadb33-1071-11e9-ab3a-0a3560a4cccc/Bourns-Electronics/CAY16-1001F4LF?uid=1833049,"- 1k Ohm resistor array, 4 resistors",,
+,Digikey,952-2664-1-ND,PC TEST POINT NATURAL,1,$0.31,,$0.00,https://www.digikey.com/en/products/detail/harwin-inc/S2751-46R/5250499,https://www.mouser.com/ProductDetail/Harwin/S2751-46R?qs=DaxoyN%2FvrebM3VuuS3MPNA%3D%3D,- TH testpoint to probe mouse,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+PCB,JLC PCB,n/a,PCB prototype:Y4-5162408A,5,$2.00,1,$2.00,https://jlcpcb.com/?_ga=2.135028465.1970803033.1675648070-692031392.1675094888,,"- solid and cheap PCB vendor
+- no issues so far, purple nice and deep purple",,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,total cost:,#REF!,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,116,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,resistors:,https://www.digikey.com/en/products/filter/chip-resistor-surface-mount/52?s=N4IgjCBcoExaBjKAzAhgGwM4FMA0IB7KAbXADYBWAFgGYQBdfABwBcoQBlFgJwEsA7AOYgAvvjBl4IJJDRY8hEiBoBOGjBUNmbSJx4DhYkDAAMADgpSZcnPiKRSYEwAIA1gHkAFgFtMWkKzsAKr8vCzuyACy2KiYAK7c2KL4ALRw0NJQPHEK9qSW9EYpmhky2blKEIVG6aSJmLyYLATc-pIZvAAm7ClOENrsIPgsAJ5MSbqxSPgAjqODIiJAA,,,,,,,,,,
+,headers:,https://www.digikey.com/en/products/filter/rectangular-connectors/headers-receptacles-female-sockets/315?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALGGABxwDsIAuoQA4AuUIAyuwE4BLAHYBzEAF9CNGohApIGHAWJkQDAKxgAzMzadIPfsLGSQAWgBMs%2BfwCuykpHLrmpswmhyodh6ohM3GGtvPntCR3IdANMgzwEAEy4zMAAGCD0uEEJ2AE9WXC50bBRxcSA,,,,,,,,,,
+,ceramic caps:,https://www.digikey.com/en/products/filter/ceramic-capacitors/60?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRAGYBOcgJkpAF0CAHAFyhAGVWAnASwB2AcxABfAgFoaCEMki8ArviKkQAVkbiQE%2BNFlRFy4pDLlNk%2BnrmGCxshAait0k7Jw80AWz6IABIjRmNEQ%2BVkIeTSA,,,,,,,,,,
+,electrolytic caps:,https://www.digikey.com/en/products/filter/aluminum-electrolytic-capacitors/58?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALGGABxwDsIAuoQA4AuUIAyuwE4BLAHYBzEAF9CAWgBMiECkj8ArgWJkQAVmaSQUmPMUq1JSOQDMO6QmgKoxwqfIQm43XLML0rdEgHsiPmZCA1sBABMuKTAABgg2TkgQEEJ2AE9WXC50bBQ3IA,,,,,,,,,,
+,motor drivers:,https://www.digikey.com/en/products/filter/motor-drivers-controllers/744?s=N4IgjCBcoEwKxyqAxlAZgQwDYGcCmANCAPZQDaIAzHDACwDslIAukQA4AuUIAyhwE4BLAHYBzEAF8iAWhhIQqSAICuhEuRCJmUkNIBs8xSrWlIFJtpkBOQ1GNFTFCNp1yzIALbEOxfgAIAEyEANzx%2BFiIDaBBBAO5pMAAGCHYuSBAQIg4ATzY8bgwcVAkJIA,,,,,,,,,,
+,linear regulators:,https://www.digikey.com/en/products/filter/voltage-regulators-linear/699?s=N4IgjCBcpgTAnFUBjKAzAhgGwM4FMAaEAeygG1wA2AdgFZ4AWEI2ABjHqZdmrHlmYhYDatVaUQAXSIAHAC5QQAZTkAnAJYA7AOYgAvkVrUAzEhCpImXIRLkh8Wh2qDjrWiIAcg6g0e1BHqJgXkT8tAgBHpQMISAe8GCigvA%2BrKZEYGnuAhmsgQw54HCUboJgYJS0rIgZDMYeaWW0jh7p4PTCzhmUYAyJTfAe4WWVUYXBvoNlUX2s0x4efGWMHgxc4CnGYoJsrLBwOxyu-izB4l1CsLDGxhAs9SaxwsYOEixG0YWwlK5TLIE-C4IXrGN4gSjwSgRIirWDxHb7KoCaQgeSKFQaHT6XKVMwWKz4IikSAUCAotGQEAASU0cjw2jwqmx4FEiGg5nQ2EJthJQgYCV4UlkCkpGK0ugMIAAtAJ2RY1ABXGzEij%2BSSSqUSOVQRXKuymdVEKVslA61RKol2Ml6SWyigAN2IWDkGAZAAJVPSFVgMHJiEyUVrQOoACaKKWZO6okUgQRyACeMjwigwOFQNqAA,,,,,,,,,,
+,to-220 heatsinks:,https://www.digikey.com/en/products/filter/thermal/heat-sinks/to-220/219?s=N4IgjCBcoMwKwHYqgMZQGYEMA2BnApgDQgBuAdlAC4BOArkSAPZQDaIALGDGAAwBMIALrEADpSggAyjQCWZAOYgAvsQC0A6CDSQa9Ys0hs4QlSFUA2ZFqp0GBtjBNqAnFe267rcCdOXNMgBMJVV4IUXFIEBBiSgBPEXwJTFw0JSUgA,,,,,,,,,,
+,screws:,https://www.digikey.com/en/products/filter/screws-bolts/572?s=N4IgjCBcoLQExVAYygFwE4FcCmAaEA9lANogCsIAugL74wBsiIKkGO%2BRkpAzFbSDACcTFmzyES4PtWpA,,,,,,,,,,
+,nuts:,https://www.digikey.com/en/products/filter/nuts/573?s=N4IgjCBcoLQExVAYygFwE4FcCmAaEA9lANogCsIAugL74wBsiIKkGO%2BRkpAzFbSDACcTFmzyES4PtWpA,,,,,,,,,,
+,MCUs: ,https://www.digikey.com/en/products/filter/microcontrollers/685?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIALAAxwDMdIh1cFtVIAuoQA4AuUIAMq8ATgEsAdgHMQAX0JhWiECkgYcBYmXABWCgA4qEBTv36DjcIcPGr%2BnfUtg4VWgHZ2hAEyL9Ly15eOnS2QTpgNAE6brT6MAEwYDAxCbEw8d5uXhQ5ATH6WZw8-JBCopIy8uBgYF7Kqup4hCSQ5MGmCISJtLQUTvBUVBngA2C0-S7OTl5uNcO1Bf4KbGxuTrSBhcuBDMsULGt7cPq2Yzrpfd5UXgXjV14udyBe1y76Tm4weofPN24W3j%2Bbh%2BgUWl2eQy8vQCQxgNxhcTgnQht08IG6iSKID4AmE4mkcgUNXG0BUaCwTS0rRAG0SMHBtGiVGolkZWX0TzZNz6XGxJTK%2BMqRMU9XJGma2lW7mRUsMrKhDzRGx6Q3lPSmhGVG3B4WuQTVGx%2BWp6BuhmqhvTq5p6OiVFvCBocjqN9plFpgdp6ME57oZ9Po701ZnM7F5ONKeIqhPADwgpIaFM0LXIcBigScrA8py%2BwORSVMzKcZjcu2eiROTy85Z0Oks8ESCDD-MjBKqzj8orUiYl1NDVUCVHe8bFlOTNJ1tcIJyx4ZAAEkJLxcFJcCJowBaOrDyCiACuSe0tY4VXX8W3e4P1PGx8I67jyBHl-IYFtnBPCHPIn3Pefb9vfW3RonxAE5bUnECdGyQNwFcbIGRmeAAihYEkPcYZAncNEMK%2BJwaneY9%2B20ABbMQkBEIgkCIRdyMwTBVyxWtSW4KAwB4ZjIAiKgqjPUAxAAEwEO8jEsWdLF4ABPbhcAEdBsBQWRZCAA,,,,,,,,,,
+,more MCUs:,https://www.digikey.com/en/products/filter/microcontrollers/685?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRACZyBWATjAAYQDLYGJnzZ6aAOJizmDj8WQgOwjBPKiAC6BAA4AXKCADKSgE4BLAHYBzEAF8CsGghDJI6bPiKkQAFm4BmGi7mKVkdVr2GTcEcPaEtUTFwCYkgyMCpHHnp2cCoeHgT%2BMETE5KzpN0yaehcxRmYhIscRMASi6qpYKmTKWhdmlwbHc2YXHnJHKuZgnjByESom7nGxXvhmVlgZkVhZuYoxfoGRGZ4N7YmxGWZdl1g%2BZiLyOP4XYvIxZLOaRf4qMUcxHm6QdIYy8BqEzGBCEjgm3xq9EmmTeSX%2BcUOBRBfVOEnkIGUqg0OgMxhBvHMoSsNki9hiIEYskClHofCJ4VsUQcp34jgg6MxPgAkrolDh9DhNHiQABaMb0yBaACudmiZBkVIIIvgEulsuZckCIsJSCgaqZ5PZWogEpJ6sNVEpWqqpoi5rII0tRx%2BVH65xALnuLwInrEeyp1IcAFttIhNIREIReeGMBhBZ4QDJQgooGBFCnIH9AirQNoACaqGoeLxYvy4ghKACeChwqjzWGQBAAjlXVMYjEA,,,,,,,,,,
+,IMUs:,https://www.digikey.com/en/products/filter/imus-inertial-measurement-units/567?s=N4IgjCBcoLQExVAYygFwE4FcCmAaEA9lANogCsIAugL74wBsiIKkGO%2BRkpAzFbSDACcTFmzyES4PvwRcQASQCyAVSr4K0EAAcoYfFp2QwABmP9GmgJYATKAJMR9qOyHyoAnlux2AhgGcUamogA,,,,,,,,,,
+,rectifier diodes:,https://www.digikey.com/en/products/filter/single-diodes/280?s=N4IgjCBcpgnAHLKoDGUBmBDANgZwKYA0IA9lANogAMIAugL7EC0ATMiGpAC4BOArkVIUQAVjqMQTAGztOvAcTKRKAZnHMk0DlHmCllCA2ZitnLHj3C2xFgBY1xMAHYQxGQwltlIHvhRcAS3QA-B46N3YAgBMoSTAqCGIABy5Y1xAuAE8k-FjMXDR6eiA,,,,,,,,,,
+,inductors:,https://www.digikey.com/en/products/filter/fixed-inductors/71?s=N4IgjCBcoLQExVAYygFwE4FcCmAaEA9lANogCsIAugL74wBsiIKkGO%2BRkpAzFbSDACcTFmzyES4PvwRcQASwB2AE0xJUBdHyA,,,,,,,,,,
+,switching regulators:,https://www.digikey.com/en/products/filter/voltage-regulators-dc-dc-switching-regulators/739?s=N4IgjCBcpgnAHLKoDGUBmBDANgZwKYA0IA9lANogAMIAugL7EC0ATMiGpAC4BOArkVIUQAVjqMQTAGztOvAcTKRKAZnHMk0DlHmCllCAwltlIXAHcAllxQALSwDsA5gAIe%2BJ32yYuJHnWIZLUsAEyhwFiRiAAcucIBlXkcnEGIuAE9o-HDMXDR6eiA,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Other parts that were considered (mouse 6),Digikey,CAY16-3300F4LFCT-ND,RES ARRAY 4 RES 330 OHM 1206,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/bourns-inc/CAY16-3300F4LF/2566564,https://app.ultralibrarian.com/details/ccdaf4ac-1071-11e9-ab3a-0a3560a4cccc/Bourns-Electronics/CAY16-330J4LF?open=backlink,"- 330 Ohm resistor array, 4 resistors",,
+,Digikey,732-6406-1-ND,CAP ALUM POLY 47UF 20% 10V SMD,1,$0.50,1,$0.50,https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/875105242006/5147570,https://www.mouser.com/ProductDetail/Wurth-Elektronik/875105242006?qs=0KOYDY2FL2%252B0I2dpxCheuQ%3D%3D,"- C1 47uF polymer cap for motor driver supply
+- datasheet pg 8","C2
+- dupe C",
+,Digikey,CKN12306-ND,"TACT 6.0 X 3.5, 5.0 MM H, 180GF,",1,$0.11,1,$0.11,https://www.digikey.com/en/products/detail/c-k/PTS636-SM50-LFS/10071719,"https://www.mouser.com/ProductDetail/CK/PTS636-SM50-LFS?qs=vLWxofP3U2wXEPbpdl6g6w%3D%3D
+https://www.ckswitches.com/products/switches/product-details/Tactile/PTS636/",- TH reset switch,,
+,Digikey,541-10.0KHCT-ND,RES SMD 10K OHM 1% 1/10W 0603,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/vishay-dale/CRCW060310K0FKEA/1174782,n/a,"- 10k resistor for reset switch on AT32UC3L0256 
+- small 0603 package",,
+,Digikey,445-7456-1-ND,CAP CER 0.1UF 50V X5R 0603,1,$0.11,1,$0.30,https://www.digikey.com/en/products/detail/tdk-corporation/C1608X5R1H104K080AA/2732891,n/a,"- 0.1uF ceramic cap for reset switch on AT32UC3L0256 
+- small 0603 package",,
+,Coilcraft,XAL5030-222,XAL5030-222MEC,1,$2.49,2,$4.98,https://www.coilcraft.com/en-us/products/power/shielded-inductors/molded-inductor/xal/xal50xx/xal5030-222/,https://app.ultralibrarian.com/details/ea1ad5ed-e17c-11ec-9c51-0a34d6323d74/Coilcraft/XAL5030-222MEC?uid=18896168,"- 2.2uH inductor needed for 5V and 3.3V switching regulator
+- between SW and 100k Ohm resistor (pg 21 pdf of datasheet)",,
+,Digikey,BD62130AEFJ-E2CT-ND,BUILT-IN 1 CHANNEL H BRIDGE MOTO,1,$1.78,1,$1.78,https://www.digikey.com/en/products/detail/rohm-semiconductor/BD62130AEFJ-E2/10233247,https://app.ultralibrarian.com/details/b41f0344-af24-11ea-b5d0-0aebb021a1ea/ROHM-Semiconductor/BD62130AEFJ-E2?uid=102118116,3A 3.7V brushed DC motor driver for vacuum fan,,
+,Mouser,755-BD62130AEFJ-E2,Motor / Motion / Ignition Controllers & Drivers 1 CH H-BRIDGE MOTOR DRIVER,1,$1.78,1,$1.78,https://www.mouser.com/ProductDetail/ROHM-Semiconductor/BD62130AEFJ-E2?qs=T3oQrply3y%2F%252BXQdDoW5zkA%3D%3D,,,,
+,Digikey,478-KGQ15ACG1H220JTCT-ND,CAP CER 22PF 50V NP0 0603,1,$0.31,2,$0.62,https://www.digikey.com/en/products/detail/kyocera-avx/KGQ15ACG1H220JT/1600309,n/a,"- 22pF caps for external crystal
+- needed on each crystal terminal
+- small 0603 package",,
+,Digikey,445-C1608X5R1A106K080ACCT-ND,CAP CER 10UF 10V X5R 0603,1,$0.36,4,$1.44,https://www.digikey.com/en/products/detail/tdk-corporation/C1608X5R1A106K080AC/2732921,n/a,"- 10uF ceramic capacitor, SMD 0603
+- needed for Sharp IR sensors",,
+,Digikey,445-C1608X5R1A106K080ACCT-ND,CAP CER 10UF 10V X5R 0603,1,$0.36,1,$0.36,https://www.digikey.com/en/products/detail/tdk-corporation/C1608X5R1A106K080AC/2732921,n/a,"- 10uF capacitor for AT32UC3L0256 VDDin
+- page 4 of schematic checklist
+- small 0603 package",,
+,Digikey,445-7456-1-ND,CAP CER 0.1UF 50V X5R 0603,1,$0.11,3,$0.33,https://www.digikey.com/en/products/detail/tdk-corporation/C1608X5R1H104K080AA/2732891,n/a,"- 0.1uf ceramic cap for AT32UC3L0256 VDDin, VDDio, and VDDcore
+- page 4 of schematic checklist
+- small 0603 package",,
+,Digikey,445-8025-1-ND,CAP CER 2.2UF 35V X5R 0603,1,$0.25,1,$0.25,https://www.digikey.com/en/products/detail/tdk-corporation/C1608X5R1V225K080AC/2792255,n/a,"- 2.2uF ceramic cap for AT32UC3L0256 VDDio, and VDDcore
+- page 4 of schematic checklist
+- small 0603 package",,
+,Digikey,445-7456-1-ND,CAP CER 0.1UF 50V X5R 0603,1,$0.11,1,$0.30,https://www.digikey.com/en/products/detail/tdk-corporation/C1608X5R1H104K080AA/2732891,n/a,"- 0.1uF ceramic cap for AT32UC3L0256 VDDana and ADVREF
+- page 5 of schematic checklist
+- small 0603 package",,
+,Digikey,490-5216-1-ND,FERRITE BEAD 1.5K OHM 0603 1LN,1,$0.19,1,$0.19,https://www.digikey.com/en/products/detail/murata-electronics/BLM18HE152SN1D/1948321?s=N4IgTCBcDaIEIBkCyBGAHACQKIoKxgGUA5FEAXQF8g,https://app.ultralibrarian.com/details/e0fd8b3f-1072-11e9-ab3a-0a3560a4cccc/Murata/BLM18HE152SN1D?uid=12637265,"- ferrite bead for for AT32UC3L0256 VDDana and ADVREF
+- page 5 of schematic checklist, and page 15 on xplained dev board schematic: HERE
+- small 0603 package",,
+,Digikey,445-7456-1-ND,CAP CER 0.1UF 50V X5R 0603,1,$0.11,1,$0.30,https://www.digikey.com/en/products/detail/tdk-corporation/C1608X5R1H104K080AA/2732891,n/a,"- 0.1uF ceramic cap for JTAG on AT32UC3L0256 
+- small 0603 package",,
+,Digikey,541-10.0KHCT-ND,RES SMD 10K OHM 1% 1/10W 0603,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/vishay-dale/CRCW060310K0FKEA/1174782,n/a,"- 10k resistor for pulling down enable signal
+- small 0603 package",,
+,Digikey,CKN12306-ND,"TACT 6.0 X 3.5, 5.0 MM H, 180GF,",1,$0.11,1,$0.11,https://www.digikey.com/en/products/detail/c-k/PTS636-SM50-LFS/10071719,https://www.mouser.com/ProductDetail/CK/PTS636-SM50-LFS?qs=vLWxofP3U2wXEPbpdl6g6w%3D%3D,"- same switch as reset switch for software configuration
+- to go on MCU interrupt pin",,
+,Digikey,3147-B1911UD--20D001014U1930CT-ND,LED ORANGE CLEAR 1608 SMD,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/harvatek-corporation/B1911UD-20D001014U1930/15519993,https://app.ultralibrarian.com/details/1b4ee273-917d-11ed-b159-0a34d6323d74/Harvatek/B1911USD-20D000114U1930?uid=122240494,- orange SMD LED 0603 package for debug,,
+,Digikey,3147-B1911USD-20D000114U1930CT-ND,LED RED CLEAR 1608 SMD,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/harvatek-corporation/B1911USD-20D000114U1930/15519991,https://app.ultralibrarian.com/details/1b4ee273-917d-11ed-b159-0a34d6323d74/Harvatek/B1911USD-20D000114U1930?uid=122240494,- red SMD LED 0603 package for error indication,,
+,Digikey,3147-B1911NG--20D000214U1930CT-ND,LED GREEN CLEAR 1608 SMD,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/harvatek-corporation/B1911NG-20D000214U1930/15519989,https://app.ultralibrarian.com/details/1b4ee273-917d-11ed-b159-0a34d6323d74/Harvatek/B1911USD-20D000114U1930?uid=122240494,- green SMD LED 0603 package for debug,,
+,Digikey,3147-B1931NB--20C007614U1930CT-ND,LED BLUE CLEAR SMD,1,$0.10,1,$0.10,https://www.digikey.com/en/products/detail/harvatek-corporation/B1931NB-20C007614U1930/15861263,https://app.ultralibrarian.com/details/1b4ee273-917d-11ed-b159-0a34d6323d74/Harvatek/B1911USD-20D000114U1930?uid=122240494,- blue SMD LED 0603 package for debug,,
